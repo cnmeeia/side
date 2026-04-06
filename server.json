@@ -1,0 +1,8 @@
+  {
+    "servers": [
+      {
+        "name": "My Omnisette",
+        "address": "http://10.7.0.1:6969"
+      }
+    ]
+  }
